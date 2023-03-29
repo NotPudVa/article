@@ -1,0 +1,53 @@
+	body {
+			background-color: #fafafa;
+			font-family: 'Source Sans Pro', sans-serif;
+			font-size: 17px;
+			line-height: 1.5;
+			color: #333;
+			padding: 20px;
+            text-align: left;
+	}
+	h1 {
+		font-family: 'Lora', serif;
+		font-size: 46px;
+		margin-bottom: 20px;
+		font-weight: 700;
+		text-align: center;
+	}
+
+	h2 {
+		font-family: 'Lora', serif;
+		font-size: 23px;
+		margin-bottom: 20px;
+		font-weight: 700;
+		
+	}
+	h3 {
+		font-family: 'Lora', serif;
+		font-size: 19px;
+		margin-bottom: 5px;
+		font-weight: 500;
+		color: rgb(77, 76, 76);
+	}
+	p {
+		margin-bottom: 15px;
+	}
+
+
+	a {
+		text-decoration: none;
+		color: rgb(140, 140, 209);
+	}
+	.between_imgs{
+		margin-left: -5px;
+		text-align: justify;
+	}
+	section { 
+		margin-bottom: 35px;
+	}
+	.last_in_list{
+		margin-bottom: 25px
+	}
+	.last_part p {
+		margin-bottom: 10px;
+	}
